@@ -1,4 +1,4 @@
-# Smart-Email-Reply-Generator 🚀
+# Smart-Email-Reply-Generator 🚀 [View Project](https://smartemailassistant2.netlify.app/)
 
 **Tech Stack:** Java (Spring Boot), React, Chrome Extension (JavaScript), Google Gemini 2.5 Pro
 
